@@ -1,0 +1,1 @@
+print(sum(map(int, [i for i in input("Enter a number: ") if i in ('2','3','5','7')])))

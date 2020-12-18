@@ -1,0 +1,1 @@
+print(sum(map(int, [digit for digit in input("Enter a number: ") if int(digit)%2==0])))

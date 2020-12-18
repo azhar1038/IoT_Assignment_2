@@ -1,0 +1,1 @@
+print(sum(list(map(int, [digit for digit in input("Enter a number: ")]))))
